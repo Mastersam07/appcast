@@ -6,7 +6,7 @@ Each app has one feed at a permanent URL:
 
 | App | Feed |
 |---|---|
-| OpenDeviceHub | https://mastersam07.github.io/appcast/opendevicehub.xml |
+| OpenDeviceHub | https://mastersam07.github.io/appcast/simviewer.xml |
 
 A feed URL is baked into a released app and can never change: changing it silently ends updates
 for everyone who already installed that app. The feeds live here rather than in an app's own
